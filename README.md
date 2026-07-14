@@ -100,6 +100,14 @@ Building scalable APIs, backend systems and geospatial solutions with modern Jav
 
 ---
 
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielrmgs/gabrielrmgs/output/github-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
 <div align="center">
 
 *"Clean code. Reliable APIs. Scalable systems."*
